@@ -5,3 +5,6 @@
 - 👯 Mostly interested in: maching learning, complex systems, networks, computational physics
 - 💬 About me: Basketball fan, referee and player, passionate about technology. I adore mountains and beautiful landscapes
 - 📫 How to reach me: lorenzo.vigorellikd35@gmail.com
+
+[![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoVigorelli)](https://github.com/LorenzoVigorelli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoVigorelli)](https://github.com/LorenzoVigorelli/github-readme-stats)
